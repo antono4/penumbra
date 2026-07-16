@@ -1,5 +1,8 @@
 ## What is this sorcery?
 
+> **Created by Antono**
+
+
 Penumbra allows users to easily add 2D lighting with shadowing effects to their games.
 
 > Note that this project is no longer in development. I do try to fix any bugs though!
